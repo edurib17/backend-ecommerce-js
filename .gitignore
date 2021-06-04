@@ -1,0 +1,7 @@
+/bluid
+/node_modules
+/.history
+
+.DS_Store
+.env
+.env.local
